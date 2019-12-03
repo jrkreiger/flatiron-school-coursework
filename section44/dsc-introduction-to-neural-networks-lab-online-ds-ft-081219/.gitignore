@@ -4,3 +4,4 @@
 *.pyc
 *__pycache__
 /data
+/index_files
