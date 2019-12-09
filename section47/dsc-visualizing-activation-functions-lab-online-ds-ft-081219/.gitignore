@@ -1,0 +1,6 @@
+.DS_Store
+*.ipynb_checkpoints
+*.pytest_cache
+*.pyc
+*__pycache__
+chest_xray_all_with_augmentation_data.h5
